@@ -16,11 +16,9 @@
 *.ini
 
 *.bcf
-Notes.pdf
 *.run.xml
 *.toc
 *.synctex.gz.sum.synctex
 *.bbl-SAVE-ERROR
 
-AllStatements/*.pdf
-AllStatements/compressed/*.pdf
+illuminations.pdf
